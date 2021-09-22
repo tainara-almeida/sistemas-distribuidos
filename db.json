@@ -7,7 +7,7 @@
             "email": "Vovo@irmaodojorel.com",
             "first_name": "vovo",
             "last_name": "gigi",
-            "link": "https://i.pinimg.com/474x/b0/41/67/b041679b4db721d0d925e4d97b2da289.jpg"
+            "avatar": "https://i.pinimg.com/474x/b0/41/67/b041679b4db721d0d925e4d97b2da289.jpg"
         },
         {
             "id": 3,
@@ -15,7 +15,7 @@
             "email": "Lara@irmaodojorel.com",
             "first_name": "Lara",
             "last_name": "<3",
-            "link": "https://pbs.twimg.com/media/EmztZrkW4AA4bhL.jpg"
+            "avatar": "https://pbs.twimg.com/media/EmztZrkW4AA4bhL.jpg"
         },
         {
             "id": 4,
@@ -23,7 +23,7 @@
             "email": "ana.catarina@irmaodojorel.com",
             "first_name": "ana",
             "last_name": "catarina",
-            "link": "https://gartic.com.br/imgs/mural/al/aloklok/ana-catarina-p-sofia-angel.png"
+            "avatar": "https://gartic.com.br/imgs/mural/al/aloklok/ana-catarina-p-sofia-angel.png"
         },
         {
             "id": 5,
@@ -31,7 +31,7 @@
             "email": "vovo.juju@irmaodojorel.com",
             "first_name": "vovo",
             "last_name": "juju",
-            "link": "https://pbs.twimg.com/profile_images/651915043131535360/w-dXx3AV_400x400.png"
+            "avatar": "https://pbs.twimg.com/profile_images/651915043131535360/w-dXx3AV_400x400.png"
         },       
         {
             "id": 5,
@@ -39,7 +39,7 @@
             "email": "irmaodo.jorel@irmaodojorel.com",
             "first_name": "jorel",
             "last_name": "irmao do",
-            "link": "https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg"
+            "avatar": "https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg"
         }
         
     ]    
